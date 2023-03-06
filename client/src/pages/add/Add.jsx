@@ -1,7 +1,5 @@
-import React, { useReducer, useState } from 'react'
+import React from 'react'
 import './Add.scss'
-
-import { useNavigate } from 'react-router-dom'
 
 const Add = () => {
     return (
